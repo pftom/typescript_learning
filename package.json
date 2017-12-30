@@ -11,6 +11,7 @@
   "author": "pftom <1043269994@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "@angular/cli": "^1.6.3",
     "eslint": "^4.13.1",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0"
